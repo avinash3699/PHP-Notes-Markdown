@@ -105,8 +105,8 @@ In PHP, we have the following loop types:
 
 1. while
 2. do...while
-3. for - loops through a block of code a specified number of times
-4. foreach - loops through a block of code for each element in an array
+3. for
+4. foreach
 ```
 
 ```php

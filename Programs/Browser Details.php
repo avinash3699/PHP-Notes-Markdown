@@ -1,4 +1,4 @@
-# PHP program to determine the type of browset that a web client is using
+# PHP program to determine the type of browser that a web client is using
 
 <?php
 
